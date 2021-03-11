@@ -1,4 +1,4 @@
 <?php
 print "Hello There!";
-print `ifconfig`;
+print "hey";
 ?>
