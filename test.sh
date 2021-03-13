@@ -1,3 +1,3 @@
 echo "Hello"
-date
 cal
+date
